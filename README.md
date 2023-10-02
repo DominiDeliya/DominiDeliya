@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Domini Deliyakanthi, software developer in progress openedge
 - 👀 I’m interested in software development
-- 💞️ I’m looking to collaborate on progress openedge 
+- 💞️ I’m looking to collaborate on progress openedge application developments
 - 📫 https://www.linkedin.com/in/domini-deliyakanthi-06b26b61/
 
 <!---
