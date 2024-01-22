@@ -2,11 +2,11 @@
 # Hi there! 👋 I'm Domini Deliyakanthi
 I'm a passionate software developer with expertise in [List your key skills or technologies].
 
-- 🔭 I’m currently working on [Project Name]
+- 🔭 I’m currently working on R&D in Progress openedge Application developemnts 
 - 🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate on  progress openedge application developments
 - 💬 Ask me about Progress Openedge back end developments(12.2, PASOE,RESTAPI)
-- 📫 How to reach me: [[Your Email or Social Media Links]](https://www.linkedin.com/in/domini-deliyakanthi-06b26b61/)
+- 📫 How to reach me: (https://www.linkedin.com/in/domini-deliyakanthi-06b26b61/)
 
 
 ## 🔧 Technologies & Tools
